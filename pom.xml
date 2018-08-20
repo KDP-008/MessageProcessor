@@ -3,8 +3,8 @@
   <groupId>com.jpmc</groupId>
   <artifactId>tre</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Trade Reporting Engine</name>
-  <description>A Engine to prepare reports for trades</description>
+  <name>Message Processor Application</name>
+  <description>Application to process sales messages</description>
   
    <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
